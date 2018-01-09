@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="ratio_value" type="dimen" format="float">2.0</item>
+    <item name="ratio_value2" type="dimen" format="float">3.0</item>
+    <item name="ratio_value3" type="dimen" format="float">3.0</item>
+    <dimen name="height">100dp</dimen>
+    <dimen name="height2">100dp</dimen>
+    <dimen name="height3">150dp</dimen>
+</resources>
